@@ -1222,3 +1222,40 @@ z-index: 2;
         height: 20%;
     }
 }
+@media screen and (min-width:1024px){
+    .discount{
+        width: 85%;
+        
+    }
+    .shop__voucher{
+        width: 85%;
+    }
+    .menu__product__name{
+        width: 85%;
+    }
+    .flash__sale--name--product{
+        width: 85%;
+    }
+    .mall{
+        height: 70rem;
+    }
+    .shop__mall{
+        width: 85%;
+        height: 100%;
+    }
+    .suggest--title--product{
+        width: 85%;
+    }
+    .shop__introduce{
+        height: 125rem;
+    }
+    .introduce--information{
+        width: 85%;
+    }
+    .all--menu--product{
+        width: 85%;
+    }
+    .card__serve{
+        width: 85%;
+    }
+} 
