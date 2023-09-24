@@ -1224,38 +1224,52 @@ z-index: 2;
 }
 @media screen and (min-width:1024px){
     .discount{
-        width: 85%;
+        width: 90%;
         
     }
     .shop__voucher{
-        width: 85%;
+        width: 90%;
     }
     .menu__product__name{
-        width: 85%;
+        width: 90%;
     }
     .flash__sale--name--product{
-        width: 85%;
+        width: 90%;
     }
     .mall{
-        height: 70rem;
+       
     }
     .shop__mall{
-        width: 85%;
+        width: 90%;
         height: 100%;
     }
+    .mall--product--first{
+        width: 35%;
+    }
+    .mall--product--second{
+        width: 65%;
+    }
     .suggest--title--product{
-        width: 85%;
+        width: 90%;
     }
     .shop__introduce{
-        height: 125rem;
+        height: 140rem;
     }
     .introduce--information{
-        width: 85%;
+        width: 90%;
+    }
+    .shop__all-menu{
+        height: 120rem;
     }
     .all--menu--product{
-        width: 85%;
+        width: 90%;
+        height:100% ;
     }
     .card__serve{
+        width: 90%;
+        padding: 3rem  0 0 0;
+    }
+    .copyright{
         width: 85%;
     }
 } 
